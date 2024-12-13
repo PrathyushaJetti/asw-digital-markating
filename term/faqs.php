@@ -23,7 +23,7 @@ include('../includes/header.php')
                         <nav aria-label="breadcrumb" class="page-breadcrumb">
                             <ul class="">
                                 <li class="">
-                                    <a href="../index.html">
+                                    <a href="../index.php">
                                         <i class="bi bi-house-door me-1"></i>Home</a>
                                 </li>
 

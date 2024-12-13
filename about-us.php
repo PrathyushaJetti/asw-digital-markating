@@ -23,7 +23,7 @@ include('includes/header.php')
         <nav aria-label="breadcrumb" class="page-breadcrumb">
           <ul>
             <li >
-              <a href="index.html">
+              <a href="index.php">
                 <i class="bi bi-house-door me-1"></i>Home</a>
             </li>
            
@@ -190,10 +190,10 @@ c-15.2-15.1,0.3-41.7-16.6-54.9C63,186,49.7,196.7,37.5,186z  " />
             </ul>
           </div>
         </div>
-        <a class="themeht-btn secondary-btn mt-5" href="about-us.html">
+        <!-- <a class="themeht-btn secondary-btn mt-5" href="about-us.php">
           <span>Discover More</span>
           <i class="bi bi-arrow-right"></i>
-        </a>
+        </a> -->
       </div>
     </div>
   </div>
@@ -204,7 +204,7 @@ c-15.2-15.1,0.3-41.7-16.6-54.9C63,186,49.7,196.7,37.5,186z  " />
 
 <!--marquee start-->
 
-<section class="py-8">
+<!-- <section class="py-8">
   <div class="container-fluid p-0">
     <div class="row">
       <div class="col">
@@ -226,7 +226,7 @@ c-15.2-15.1,0.3-41.7-16.6-54.9C63,186,49.7,196.7,37.5,186z  " />
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
 <!--marquee end-->
 

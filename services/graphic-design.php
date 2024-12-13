@@ -21,11 +21,11 @@ include('../includes/header.php')
         <nav aria-label="breadcrumb">
           <ol style="list-style: none;">
             <li>
-              <a href="../index.html">
+              <a href="../index.php">
                 <i class="bi bi-house-door me-1"></i>Home</a>
             </li>
             <li>
-              <a href="../services.html">Services</a>
+              <a href="../services.php">Services</a>
             </li>
             <li class="breadcrumb-item active" aria-current="page">Graphic Design </li>
           </ol>

@@ -23,11 +23,11 @@ include('../includes/header.php')
         <nav aria-label="breadcrumb" >
           <ol class="breadcrumb">
             <li class="breadcrumb-item">
-              <a href="../index.html">
+              <a href="../index.php">
                 <i class="bi bi-house-door me-1"></i>Home</a>
             </li>
             <li class="breadcrumb-item">
-              <a href="../services.html">Services</a>
+              <a href="../services.php">Services</a>
             </li>
             <li class="breadcrumb-item active" aria-current="page">Email Marketing</li>
           </ol>

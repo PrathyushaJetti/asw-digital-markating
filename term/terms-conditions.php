@@ -23,7 +23,7 @@ include('../includes/header.php')
         <nav aria-label="breadcrumb" class="page-breadcrumb">
           <ul class="">
             <li class="">
-              <a href="../index.html">
+              <a href="../index.php">
                 <i class="bi bi-house-door me-1"></i>Home</a>
             </li>
             <li class="breadcrumb-item active" aria-current="page">Terms And Conditions</li>
@@ -73,8 +73,8 @@ include('../includes/header.php')
         <h4 class="text-theme mt-5">9. Governing Law </h4>
         <p class="mb-3">These Terms and Conditions are governed by and construed in accordance with the laws of Jurisdiction of Telangana. Any disputes arising from these terms shall be resolved in the courts of Jurisdiction of Telangana.</p>
         
-        <a class="themeht-btn primary-btn" href="../contact.html"><span>Accept</span><i class="bi bi-arrow-right"></i></a>
-          <a class="themeht-btn dark-btn ms-2" href="../index.html"><span>Close</span><i class="bi bi-arrow-right"></i></a>
+        <a class="themeht-btn primary-btn" href="../contact.php"><span>Accept</span><i class="bi bi-arrow-right"></i></a>
+          <a class="themeht-btn dark-btn ms-2" href="../index.php"><span>Close</span><i class="bi bi-arrow-right"></i></a>
       </div>
     </div>
   </div>

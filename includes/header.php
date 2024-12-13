@@ -59,6 +59,7 @@ define('ROOT_PATH', 'http://localhost/asw-digital/');
   <!--== color-customizer -->
   <link href="#" data-style="styles" rel="stylesheet">
   <link href="<?= ROOT_PATH ?>css/color-customize/color-customizer.css" rel="stylesheet" type="text/css" />
+  
 
   <!-- inject css end -->
    <!-- Google tag (gtag.js) -->
@@ -177,7 +178,7 @@ define('ROOT_PATH', 'http://localhost/asw-digital/');
             <li>
               <i class="flaticon flaticon-gps-1"></i>
               <span>Address:</span>
-              <p>G9 & G9A, Ground floor, Amrutha Ville, Raj Bhavan Rd, opposite Yashoda Hospital Road, Somajiguda,
+              <p>G8,Ground floor, Amrutha Ville, Raj Bhavan Rd, opposite Yashoda Hospital Road, Somajiguda,
                 Hyderabad, Telangana 500082</p>
             </li>
             <li>
@@ -206,14 +207,10 @@ define('ROOT_PATH', 'http://localhost/asw-digital/');
               <i class="flaticon-facebook-app-symbol"></i>
             </a>
           </li>
-          <li>
-            <a href="#">
-              <i class="flaticon-twitter-2"></i>
-            </a>
-          </li>
+          
           <li>
             <a href="https://www.instagram.com/p/DDZi5GszK7l/?igsh=MTY0dnJ2bWdqeXNrdg==">
-              <i class="flaticon-instagram"></i>
+              <i class="flaticon-instagram" target="_blank"></i>
             </a>
           </li>
           <li class="list-inline-item">

@@ -334,7 +334,7 @@ iframe { width: 100%; border: none; pointer-events: auto; }
 #particles-js { width: 100%; height: 100%; position: fixed; top: 0; left: 0; z-index: -1; }
 .ht-bg-move { height: 100%; left: 0; margin: 0 auto; position: absolute; right: 0; text-align: center; top: 0; width: 100%; z-index: -1; }
 .ht-first-letter::first-letter { padding: 8px 0; font-size: 60px; line-height: 60px; display: inline-block; float: left; font-weight: 600; margin-right: 8px; color: var(--themeht-primary-color); font-family: var(--themeht-secondary-font-family); }
-.rocket-shade { animation-name: MoveCircleSmall; animation-timing-function: linear; animation-duration: 5s; animation-delay: 0s; left: 0%; top: -50%; position: absolute; animation-iteration-count: infinite; }
+.rocket-shade { animation-name: MoveCircleSmall; animation-timing-function: linear; animation-duration: 5s; animation-delay: 0s; left: 0%; top: -20% !important; position: absolute; animation-iteration-count: infinite; }
 .hero-shape1 { z-index: -1; position: absolute; width: 110%; height: 100%; border-bottom-left-radius: 200px; transform: rotate(-15deg); top: -25%; right: -10%; background: linear-gradient(130deg, var(--themeht-primary2-color), var(--themeht-secondary2-color)); }
 .wave-shape { position: absolute; bottom: 0; left: 0; width: 100%; height: 300px; z-index: -1; }
 .wave-shape.top { bottom: inherit; top: 0; }

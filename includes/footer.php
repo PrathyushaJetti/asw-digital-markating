@@ -123,11 +123,7 @@
                   <i class="flaticon-instagram"></i>
                 </a>
               </li>
-              <li class="list-inline-item">
-                <a href="#">
-                  <i class="flaticon-twitter-2"></i>
-                </a>
-              </li>
+              
               <li class="list-inline-item">
                 <a href="https://www.youtube.com/@ASWDIGITALMARKETINGSERVICES" target="_blank">
                   <i class="bi-youtube"></i>
@@ -170,7 +166,7 @@
 <script src="<?= ROOT_PATH ?>js/jquery.min.js"></script>
 
 <!--== bootstrap -->
-<script src="<?= ROOT_PATH ?>bootstrap.bundle.min.js"></script>
+<script src="<?= ROOT_PATH ?>js/bootstrap.bundle.min.js"></script>
 
 <!--== jquery-appear -->
 <script src="<?= ROOT_PATH ?>js/jquery-appear.js"></script>
@@ -188,16 +184,16 @@
 <script src="<?= ROOT_PATH ?>js/jquery.countdown.min.js"></script>
 
 <!--== gsap -->
-<script src='<?= ROOT_PATH ?>js/gsap.min.js'></script>
+<script src="<?= ROOT_PATH ?>js/gsap.min.js"></script>
 
 <!--== scrolltrigger -->
-<script src='<?= ROOT_PATH ?>js/scrolltrigger.min.js'></script>
+<script src="<?= ROOT_PATH ?>js/scrolltrigger.min.js"></script>
 
 <!--== gsap-animation -->
-<script src='../js/gsap-animation.js'></script>
+<script src="<?= ROOT_PATH ?>js/gsap-animation.js"></script>
 
 <!--== particles -->
-<script src='js/<?= ROOT_PATH ?>particles.js'></script>
+<script src="<?= ROOT_PATH ?>js/particles.js"></script>
 
 <!--== swiper -->
 <script src="<?= ROOT_PATH ?>js/swiper-bundle.min.js"></script>

@@ -23,7 +23,7 @@ include('includes/header.php')
         <nav aria-label="breadcrumb" class="page-breadcrumb">
           <ul >
             <li >
-              <a href="index.html">
+              <a href="index.php">
                 <i class="bi bi-house-door me-1"></i>Home</a>
             </li>
             
@@ -112,28 +112,31 @@ include('includes/header.php')
             </li>
           </ul>
           <div class="social-icons mt-5">
-            <ul class="list-inline">
-              <li>
-                <a href="#">
-                  <i class="flaticon-facebook-app-symbol"></i>
+          <ul class="list-inline">
+        <li class="list-inline-item">
+                <a href="https://wa.me/+919390229056" target="_blank" >
+                  <i class="bi-whatsapp"></i>
                 </a>
+
               </li>
-              <li>
-                <a href="#">
-                  <i class="flaticon-twitter-2"></i>
+          <li>
+            <a href="#">
+              <i class="flaticon-facebook-app-symbol"></i>
+            </a>
+          </li>
+          
+          <li>
+            <a href="https://www.instagram.com/p/DDZi5GszK7l/?igsh=MTY0dnJ2bWdqeXNrdg==">
+              <i class="flaticon-instagram" target="_blank"></i>
+            </a>
+          </li>
+          <li class="list-inline-item">
+                <a href="https://www.youtube.com/@ASWDIGITALMARKETINGSERVICES" target="_blank">
+                  <i class="bi-youtube"></i>
                 </a>
+
               </li>
-              <li>
-                <a href="#">
-                  <i class="flaticon-instagram"></i>
-                </a>
-              </li>
-              <li>
-                <a href="#">
-                  <i class="flaticon-linkedin-1"></i>
-                </a>
-              </li>
-            </ul>
+        </ul>
           </div>
         </div>
       </div>

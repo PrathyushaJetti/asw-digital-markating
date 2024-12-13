@@ -1,4 +1,3 @@
-
 <?php ;
 $meta = [
     'title' => "Affordable Digital Marketing Packages for Every Business Need",
@@ -6,7 +5,7 @@ $meta = [
     'keywords' => "digital marketing pricing packages in india,digital packages,digital marketing packages for small business,digital marketing services price list,digital marketing agency pricing packages,digital marketing services price list,digital marketing prices in india,digital marketing prices in Hyderabad,digital marketing prices list,digital marketing cost for small business,digital marketing cost in india,1-page marketing plan.",
 
 
-]; 
+];
 include('includes/header.php')
 
     ?>
@@ -14,846 +13,1343 @@ include('includes/header.php')
 
 <!--page title start-->
 
-<section class="page-title">
-  <div class="container">
-    <div class="row justify-content-center text-center">
-      <div class="col-lg-10">
-        <h1>
-          Price Table
-        </h1>
-        <nav aria-label="breadcrumb" class="page-breadcrumb">
-          <ol style="list-style: none;">
-            <li class="">
-              <a href="index.html">
-                <i class="bi bi-house-door me-1"></i>Home</a>
-            </li>
-           
-            <li class="breadcrumb-item active" aria-current="page">Price Table</li>
-          </ol>
-        </nav>
-      </div>
-    </div>
-  </div>
-  <div class="page-title-wave">
-    <img src="images/page-bg.svg" alt="">
-  </div>
-</section>
-
-<!--page title end-->
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap');
 
 
-<!--body content start-->
+            .pricing-grid {
+                display: grid;
+                grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+                gap: 20px;
+                max-width: 1200px;
+                margin: 0 auto;
+            }
 
-<div class="page-content">
+            .pricing-box {
+                background-color: #e8f0fe;
+                border-radius: 12px;
+                padding: 24px;
+                display: flex;
+                flex-direction: column;
+            }
 
-  <!--pricing start-->
+            
+        </style>
 
-<section>
-  <div class="container">
-    <div class="theme-title">
-    
-      <h2>SEO & Digital Marketing Packages </h2>
-    </div>
-    <div class="row gx-lg-2 align-items-center">
-          <div class="col-lg-4 col-md-6">
-            <div class="price-table">
-              <h3 class="price-title">Local SEO Boost</h3>
-              <div class="price-list">
-                <ul class="list-unstyled">
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Keyword Research & Optimization
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Google My Business Optimization
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Local Backlink Building
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Monthly Performance Reports
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Citation Management (NAP Consistency)
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>2 Blog Posts Optimized for Local SEO
-                  </li>
-                </ul>
-              </div>
-              <div class="price-value">
-                <h4>
-                  ₹8,500
-                </h4>
-                <span>for 1 months</span>
-              </div>
-              <div class="price-value">
-                <h4>
-                   ₹50,000 
-                </h4>
-                <span>for 6 months </span>
-              </div>
-              <div class="price-value">
-                <h4>
-                  ₹1,00,000 
-                </h4>
-                <span>per annum</span>
-              </div>
-              <a class="themeht-btn primary-btn" href="#">
-                <span>Choose Plan</span>
-                <i class="bi bi-arrow-right"></i>
-              </a>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 mt-6 mt-md-0">
-            <div class="price-table price-active">
-              <div class="price-label">Popular</div>
-              <h3 class="price-title">SEO Growth Pack </h3>
-              <div class="price-list">
-                <ul class="list-unstyled">
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Full Website SEO Audit & Optimization
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>On-Page SEO Enhancements (Meta, Alt Tags, H1/H2, etc.)
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>5 Keyword-Targeted Blog Posts
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Monthly Backlink Strategy
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Google Analytics & Search Console Setup
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Content Strategy Development & Optimization
-                  </li>
-                </ul>
-              </div>
-              <div class="price-value">
-                <h4>
-                  ₹8,500
-                </h4>
-                <span>for 1 months</span>
-              </div>
-              <div class="price-value">
-                <h4>
-                   ₹50,000 
-                </h4>
-                <span>for 6 months </span>
-              </div>
-              <div class="price-value">
-                <h4>
-                  ₹1,00,000 
-                </h4>
-                <span>per annum</span>
-              </div>
-              <a class="themeht-btn dark-btn" href="#">
-                <span>Choose Plan</span>
-                <i class="bi bi-arrow-right"></i>
-              </a>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 mt-6 mt-lg-0">
-            <div class="price-table">
-              <h3 class="price-title">All-Inclusive SEO & SEM Package</h3>
-              <div class="price-list">
-                <ul class="list-unstyled">
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Comprehensive SEO & SEM Strategy
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Website SEO Audit & Optimization
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Google Ads Campaign Management
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Social Media Ads Strategy (Facebook/Instagram)
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>10-20 Blog Posts & SEO Optimization
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Monthly Analytics & Performance Reports
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Continuous A/B Testing for Ads & SEO Efficiency
-                  </li>
-                </ul>
-              </div>
-              <div class="price-value">
-                <h4>
-                  ₹8,500
-                </h4>
-                <span>for 1 months</span>
-              </div>
-              <div class="price-value">
-                <h4>
-                   ₹50,000 
-                </h4>
-                <span>for 6 months </span>
-              </div>
-              <div class="price-value">
-                <h4>
-                  ₹1,00,000 
-                </h4>
-                <span>per annum</span>
-              </div>
-              <a class="themeht-btn primary-btn" href="#">
-                <span>Choose Plan</span>
-                <i class="bi bi-arrow-right"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-  </div>
-  <div class="container">
-    <div class="theme-title">
-    
-      <h2> Branding & Design Packages </h2>
-    </div>
-    <div class="row gx-lg-2 align-items-center">
-          <div class="col-lg-4 col-md-6">
-            <div class="price-table">
-              <h3 class="price-title">Basic Branding Kit</h3>
-              <div class="price-list">
-                <ul class="list-unstyled">
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Custom Logo Design
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Color Palette Selection
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Typography Set
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Basic Brand Guidelines (PDF)
-                  </li>
-                 
-                </ul>
-              </div>
-              <div class="price-value">
-                <h4>
-                  ₹10,000
-                </h4>
-               
-              </div>
-              
-             
-              <a class="themeht-btn primary-btn" href="#">
-                <span>Choose Plan</span>
-                <i class="bi bi-arrow-right"></i>
-              </a>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 mt-6 mt-md-0">
-            <div class="price-table price-active">
-              <div class="price-label">Popular</div>
-              <h3 class="price-title">Business Branding Overhaul</h3>
-              <div class="price-list">
-                <ul class="list-unstyled">
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Custom Logo Design
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Full Visual Identity System (Colors, Fonts, Icons)
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Business Card Design (₹3,000)
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Letterhead & Email Signature Design (₹3,000)
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Basic Social Media Branding (Cover Photos, Profile Images)
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Brand Style Guide (PDF)
-                  </li>
-                </ul>
-              </div>
-              <div class="price-value">
-                <h4>
-                  ₹15,000
-                </h4>
-               
-              </div>
-              
-              <a class="themeht-btn dark-btn" href="#">
-                <span>Choose Plan</span>
-                <i class="bi bi-arrow-right"></i>
-              </a>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 mt-6 mt-lg-0">
-            <div class="price-table">
-              <h3 class="price-title">Complete Branding & Collateral Suite</h3>
-              <div class="price-list">
-                <ul class="list-unstyled">
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Custom Logo & Submark Design
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Full Visual Identity System
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Branded Social Media Templates
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Brochures, Flyers, and Banners (₹5,000)
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Website Branding (UI/UX + Graphics) (₹5,000)
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Comprehensive Brand Book (Online & PDF) (₹5,000)
-                  </li>
-                  
-                </ul>
-              </div>
-              <div class="price-value">
-                <h4>
-                  ₹25,000
-                </h4>
-               
-              </div>
-              
-              <a class="themeht-btn primary-btn" href="#">
-                <span>Choose Plan</span>
-                <i class="bi bi-arrow-right"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-  </div>
-  <div class="container mt-5">
-    <div class="theme-title">
-    
-      <h2> Photography Packages </h2>
-    </div>
-    <div class="row gx-lg-2 align-items-center">
-          <div class="col-lg-4 col-md-6">
-            <div class="price-table">
-              <h3 class="price-title"> Social Media Photography </h3>
-              <div class="price-list">
-                <ul class="list-unstyled">
-                  <li>
-                    <i class="flaticon flaticon-check"></i>15 Product or Lifestyle Shots
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Custom Backgrounds & Props
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Basic Photo Editing (Color Correction, Cropping)
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>1-Day Photoshoot Session
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>1 Round of Edits
-                  </li>
-                 
-                </ul>
-              </div>
-              <div class="price-value">
-                <h4>
-                  ₹10,000
-                </h4>
-               
-              </div>
-              
-             
-              <a class="themeht-btn primary-btn" href="#">
-                <span>Choose Plan</span>
-                <i class="bi bi-arrow-right"></i>
-              </a>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 mt-6 mt-md-0">
-            <div class="price-table price-active">
-              <div class="price-label">Popular</div>
-              <h3 class="price-title">Brand Photography</h3>
-              <div class="price-list">
-                <ul class="list-unstyled">
-                  <li>
-                    <i class="flaticon flaticon-check"></i>30 High-Quality Images
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Product & Lifestyle Photography
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Studio & On-Location Shooting
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Advanced Retouching & Editing
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Social Media Optimization (Aspect Ratios)
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>2-Day Photoshoot Session
-                  </li>
-                </ul>
-              </div>
-              <div class="price-value">
-                <h4>
-                  ₹15,000
-                </h4>
-               
-              </div>
-              
-              <a class="themeht-btn dark-btn" href="#">
-                <span>Choose Plan</span>
-                <i class="bi bi-arrow-right"></i>
-              </a>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 mt-6 mt-lg-0">
-            <div class="price-table">
-              <h3 class="price-title">Corporate & Event Photography</h3>
-              <div class="price-list">
-                <ul class="list-unstyled">
-                  <li>
-                    <i class="flaticon flaticon-check"></i>	Full Event Coverage (Corporate, Launch, Conferences)
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> 100+ Event Photos
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Edited & Raw Images Provided
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Behind-the-Scenes & Candid Shots
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>1-2 Professional Photographers
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>2 Rounds of Edits & Final Deliverables
-                    
-                  </li>
-                  
-                </ul>
-              </div>
-              <div class="price-value">
-                <h4>
-                  ₹25,000
-                </h4>
-               
-              </div>
-              
-              <a class="themeht-btn primary-btn" href="#">
-                <span>Choose Plan</span>
-                <i class="bi bi-arrow-right"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-  </div>
-  <div class="container mt-5">
-    <div class="theme-title">
-    
-      <h2> Web Development & Maintenance Packages </h2>
-    </div>
-    <div class="row gx-lg-2 align-items-center">
-          <div class="col-lg-4 col-md-6">
-            <div class="price-table">
-              <h3 class="price-title"> Website Starter Pack  </h3>
-              <div class="price-list">
-                <ul class="list-unstyled">
-                  <li>
-                    <i class="flaticon flaticon-check"></i> 1-Page Website (Landing Page)
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Custom Logo Design
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Professional Content Writing
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Domain Registration
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Hosting Services
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Static Pages
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Hosting Services
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Mobile Responsive Design
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>  Basic SEO Optimization
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> 	Google Analytics Setup
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Basic Website Maintenance
-                  </li>
-                 
-                </ul>
-              </div>
-              <div class="price-value">
-                <h4>
-                  ₹25,000
-                </h4>
-               
-              </div>
-              
-             
-              <a class="themeht-btn primary-btn" href="#">
-                <span>Choose Plan</span>
-                <i class="bi bi-arrow-right"></i>
-              </a>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 mt-6 mt-md-0">
-            <div class="price-table price-active">
-              <div class="price-label">Popular</div>
-              <h3 class="price-title">Business Growth Website</h3>
-              <div class="price-list">
-                <ul class="list-unstyled">
-                  <li>
-                    <i class="flaticon flaticon-check"></i>5-Page Website (Home, Services, About Us, Contact, Blog)
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Custom Logo DesignProduct & Lifestyle Photography
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Professional Content Writing
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Domain Registration
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Hosting Services
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Dynamic Pages
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>2 Blogs per Month
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Mobile Optimization & Fast Loading Speed
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Custom Design & Branding Integration
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Comprehensive SEO Optimization
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Keyword Research & Analysis
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Contact Form & Call-to-Action Integration
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> 3 Months of Maintenance & Support
-                  </li>
-                </ul>
-              </div>
-              <div class="price-value">
-                <h4>
-                   ₹50,000
-                </h4>
-               
-              </div>
-              
-              <a class="themeht-btn dark-btn" href="#">
-                <span>Choose Plan</span>
-                <i class="bi bi-arrow-right"></i>
-              </a>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6 mt-6 mt-lg-0">
-            <div class="price-table">
-              <h3 class="price-title">E-commerce Excellence Package </h3>
-              <div class="price-list">
-                <ul class="list-unstyled">
-                  <li>
-                    <i class="flaticon flaticon-check"></i>	Full E-commerce Store Setup (Shopify/WooCommerce)
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> 10+ Pages (up to 40 products)
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Custom Logo Design
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Professional Content Writing
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Keyword Research & Analysis
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Domain Registration
-                    
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Hosting Services
-                    
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>4 Blogs per Month
-                    
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Mobile Optimization & Fast Loading Speed
-                    
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Google My Business Setup
-                    
-                  </li>
-                  <li>
-                    <li>
-                      <i class="flaticon flaticon-check"></i> Influencer Marketing Strategy
-                      
-                    </li>
-                    <li>
-                      <i class="flaticon flaticon-check"></i> Lead Generation Initiatives
-                      
-                    </li>
-                    <i class="flaticon flaticon-check"></i>	Product Pages & Shopping Cart Integration
-                    
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Payment Gateway Setup
-                    
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Basic SEO & Marketing Integration
-                    
-                  </li>
-                  
-                  
-                  
-                </ul>
-              </div>
-              <div class="price-value">
-                <h4>
-                  ₹1,00,000
-                </h4>
-               
-              </div>
-              
-              <a class="themeht-btn primary-btn" href="#">
-                <span>Choose Plan</span>
-                <i class="bi bi-arrow-right"></i>
-              </a>
-            </div>
-          </div>
-        </div>
-  </div>
-  <div class="container mt-5">
-    <div class="theme-title">
-    
-      <h2> Social Media Management Packages </h2>
-    </div>
-    <div class="row gx-lg-2 align-items-center">
-      <div class="col-lg-4 col-md-6 mt-6 mt-lg-0">
-        <div class="price-table">
-          <h3 class="price-title">Social Starter Pack</h3>
-          <div class="price-list">
-            <ul class="list-unstyled">
-              <li>
-                <i class="flaticon flaticon-check"></i> Management of 3 Social Media Platforms
-              </li>
-              <li>
-                <i class="flaticon flaticon-check"></i>10 Engaging Posts/Month per Platform
-              </li>
-              <li>
-                <i class="flaticon flaticon-check"></i>Basic Analytics & Reports
-              </li>
-              <li>
-                <i class="flaticon flaticon-check"></i>SEO Optimization
-              </li>
-              <li>
-                <i class="flaticon flaticon-check"></i>Targeted Keyword Research
-              </li>
-              <li>
-                <i class="flaticon flaticon-check"></i>Hashtag Strategy
-              </li>
-              <li>
-                <i class="flaticon flaticon-check"></i>Community Engagement (1 hour/week)
-              </li>
-            </ul>
-          </div>
-          <div class="price-value">
-            <h4>
-              ₹8,500
-            </h4>
-            <span>for 1 months</span>
-          </div>
-          <div class="price-value">
-            <h4>
-               ₹50,000 
-            </h4>
-            <span>for 6 months </span>
-          </div>
-          <div class="price-value">
-            <h4>
-              ₹1,00,000 
-            </h4>
-            <span>per annum</span>
-          </div>
-          <a class="themeht-btn primary-btn" href="#">
-            <span>Choose Plan</span>
-            <i class="bi bi-arrow-right"></i>
-          </a>
-        </div>
-      </div> 
-          <div class="col-lg-4 col-md-6 mt-6 mt-md-0">
-            <div class="price-table price-active">
-              <div class="price-label">Popular</div>
-              <h3 class="price-title">Engagement Boost Pack</h3>
-              <div class="price-list">
-                <ul class="list-unstyled">
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Management of 5 Social Media Platforms
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>20 Creative Posts/Month per Platform
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Comprehensive SEO Strategies
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>In-Depth Keyword Research
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Custom Graphics & Video Clips
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i> Advanced Analytics & Monthly Reporting
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Influencer Outreach (1/month)
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Community Engagement (3 hours/week)
-                  </li>
-                </ul>
-              </div>
-              <div class="price-value">
-                <h4>
-                  ₹12,500
-                </h4>
-                <span>for 1 months</span>
-              </div>
-              <div class="price-value">
-                <h4>
-                   ₹75,000 
-                </h4>
-                <span>for 6 months </span>
-              </div>
-              <div class="price-value">
-                <h4>
-                  ₹1,50,000  
-                </h4>
-                <span>per annum</span>
-              </div>
-              <a class="themeht-btn dark-btn" href="#">
-                <span>Choose Plan</span>
-                <i class="bi bi-arrow-right"></i>
-              </a>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="price-table">
-              <h3 class="price-title">Brand Authority Pack</h3>
-              <div class="price-list">
-                <ul class="list-unstyled">
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Full Social Media Strategy Development
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>5 Platforms with Custom Posts & Stories
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>30 Tailored Posts/Month per Platform
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>SEO Optimization
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Detailed Keyword Research
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Hashtag Strategy
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Social Media Ads Management (with Budget Oversight)
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Monthly Content Calendar
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>5 Influencer Collaborations/Month
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Paid Ad Creation
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Comprehensive Analytics & Growth Reports
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Lead Generation Initiatives
-                  </li>
-                  <li>
-                    <i class="flaticon flaticon-check"></i>Daily Community Engagement
-                  </li>
-                </ul>
-              </div>
-              <div class="price-value">
-                <h4>
-                  ₹17,000
-                </h4>
-                <span>for 1 months</span>
-              </div>
-              <div class="price-value">
-                <h4>
-                  ₹1,00,000  
-                </h4>
-                <span>for 6 months </span>
-              </div>
-              <div class="price-value">
-                <h4>
-                  ₹2,00,000  
-                </h4>
-                <span>per annum</span>
-              </div>
-              <a class="themeht-btn primary-btn" href="#">
-                <span>Choose Plan</span>
-                <i class="bi bi-arrow-right"></i>
-              </a>
-            </div>
-          </div>
-          
-        </div>
-  </div>
-</section>
 
-<!--pricing end-->
+
+        <body>
+            <div class="pricing-grid">
+                <div class="pricing-box">
+
+                    <div class="price-table">
+                        <h4 class="price-title">Social Media Content Creation</h4>
+
+                        <div class="price-list">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <i class="flaticon flaticon-check"></i> Profile Optimization
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Bio Writing
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Link Management
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Highlights Design
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>12-20 Post per month
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>5 stories per week
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>2 reels per week
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i># Research
+
+                                </li>
+                            </ul>
+                            <div class="price-value">
+                                <h4>
+                                    ₹30000
+                                </h4>
+                                <span>Per Month</span>
+                            </div>
+                            <a class="themeht-btn primary-btn" href="#">
+                                <span>Choose Plan</span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+
+
+
+
+                <div class="pricing-box">
+                    <div class="price-table ">
+
+                        <h4 class="price-title">Video Shoot Plans</h4>
+                        <div class="price-list">
+                            <ul class="list-unstyled">
+                                <h5 style="color:orange">Basic Plan</h5>
+                                <li>
+
+                                    <i class="flaticon flaticon-check"></i>Per Short Video 15-60 seconds
+
+                                </li>
+                                <div class="price-value">
+                                    <h4>
+                                        ₹5000
+
+                                    </h4>
+
+                                </div>
+                            </ul>
+                            <ul class="list-unstyled">
+                                <h5 style="color:orange">Long Shoot </h5>
+
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Professional Shoot, video editing
+
+
+                                </li>
+                                <div class="price-value">
+                                    <h4>
+                                        price:₹30000
+
+                                    </h4>
+
+                                </div>
+
+
+                            </ul>
+
+                            <a class="themeht-btn primary-btn" href="#">
+                                <span>Choose Plan</span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+                        </div>
+
+
+                    </div>
+                </div>
+
+                <div class="pricing-box">
+                    <div class="price-table ">
+
+                        <h4 class="price-title">Google Ads</h4>
+                        <div class="price-list">
+                            <ul class="list-unstyled">
+
+
+                                <li>
+
+                                    <h5 style="color:orange"> Small Business</h5>
+
+                                </li>
+                                <div class="price-value">
+                                    <h4>
+                                        ₹30000
+
+                                    </h4>
+                                    <span>Month including Budget</span>
+
+                                </div>
+                            </ul>
+
+
+
+                            <h5 style="color:orange">Intermediate business</h5>
+
+                            <div class="price-value">
+                                <h4>
+                                    ₹1,00,000
+
+                                </h4>
+                                <span>for month</span>
+
+                            </div>
+
+                            <h5 style="color:orange">Business Enterprise</h5>
+
+
+
+                            <div class="price-value">
+                                <h4>
+                                    ₹500000
+
+                                </h4>
+                                <span>for month</span>
+
+                            </div>
+
+
+
+
+                            <a class="themeht-btn primary-btn" href="#">
+                                <span>Choose Plan</span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+                        </div>
+
+
+                    </div>
+                </div>
+
+                <div class="pricing-box">
+                    <div class="price-table ">
+
+                        <h4 class="price-title">Logo Designing</h4>
+                        <div class="price-list">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Custom Logo Design
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Color Palette Selection
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Typography Set
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Basic Brand Guidelines
+                                </li>
+
+
+
+
+                            </ul>
+                            <div class="price-value">
+                                <h4>
+                                    ₹10000
+
+                                </h4>
+
+                            </div>
+                            <a class="themeht-btn primary-btn" href="#">
+                                <span>Choose Plan</span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+                        </div>
+
+
+                    </div>
+                </div>
+                <div class="pricing-box">
+
+                    <div class="price-table">
+                        <h4 class="price-title">Business Card Design</h4>
+
+                        <div class="price-list">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <i class="flaticon flaticon-check"></i> Clean, professional layouts that reflect
+                                    your brand
+                                    identity
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Customized designs with high-quality
+                                    print-ready files.
+                                </li>
+
+
+                            </ul>
+                            <div class="price-value">
+                                <h4>
+                                    ₹500
+                                </h4>
+
+                            </div>
+                            <a class="themeht-btn primary-btn" href="#">
+                                <span>Choose Plan</span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+                <div class="pricing-box">
+
+                    <div class="price-table">
+                        <h4 class="price-title">Letterhead</h4>
+
+                        <div class="price-list">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <i class="flaticon flaticon-check"></i> Consistent branding with a sleek and
+                                    professional
+                                    design
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Editable templates for repeated use in
+                                    communications
+                                </li>
+
+
+                            </ul>
+                            <div class="price-value">
+                                <h4>
+                                    ₹500
+                                </h4>
+
+                            </div>
+                            <a class="themeht-btn primary-btn" href="#">
+                                <span>Choose Plan</span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+                <div class="pricing-box">
+
+                    <div class="price-table">
+                        <h4 class="price-title">Social Media Cover Poster
+                        </h4>
+
+                        <div class="price-list">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <i class="flaticon flaticon-check"></i> Eye-catching designs optimized for platform
+                                    dimensions
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Incorporates brand elements to ensure
+                                    cohesive online presence.
+
+                                </li>
+
+
+                            </ul>
+                            <div class="price-value">
+                                <h4>
+                                    ₹500
+                                </h4>
+
+                            </div>
+                            <a class="themeht-btn primary-btn" href="#">
+                                <span>Choose Plan</span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+                <div class="pricing-box">
+
+                    <div class="price-table">
+                        <h4 class="price-title">Brochures
+                        </h4>
+
+                        <div class="price-list">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <i class="flaticon flaticon-check"></i> Informative, visually appealing layouts with
+                                    clear call to-actions.
+
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>High-quality designs tailored to specific
+                                    business needs.
+
+                                </li>
+
+
+                            </ul>
+                            <div class="price-value">
+                                <h4>
+                                    ₹500
+                                </h4>
+
+                            </div>
+                            <a class="themeht-btn primary-btn" href="#">
+                                <span>Choose Plan</span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+                <div class="pricing-box">
+
+                    <div class="price-table">
+                        <h4 class="price-title">Flyers
+                        </h4>
+
+                        <div class="price-list">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Creative and engaging designs that grab
+                                    attention
+                                    instantly.
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Versatile formats suitable for print and
+                                    digital
+                                    distribution.
+                                </li>
+
+
+                            </ul>
+                            <div class="price-value">
+                                <h4>
+                                    ₹2000
+                                </h4>
+
+                            </div>
+                            <a class="themeht-btn primary-btn" href="#">
+                                <span>Choose Plan</span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+                <div class="pricing-box">
+
+                    <div class="price-table">
+                        <h4 class="price-title">Banners
+                        </h4>
+
+                        <div class="price-list">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <i class="flaticon flaticon-check"></i> Attractive designs with clear messaging for
+                                    promotions or events
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Scalable resolutions for both indoor and
+                                    outdoor display.
+
+                                </li>
+
+
+                            </ul>
+                            <div class="price-value">
+                                <h4>
+                                    ₹500
+                                </h4>
+
+                            </div>
+                            <a class="themeht-btn primary-btn" href="#">
+                                <span>Choose Plan</span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+                <div class="pricing-box">
+
+                    <div class="price-table">
+                        <h4 class="price-title">Brand Book
+                        </h4>
+
+                        <div class="price-list">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <i class="flaticon flaticon-check"></i> Comprehensive guide covering logo,
+                                    typography, and
+                                    brand colors.
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Ensures consistent branding across all media
+                                    and
+                                    platforms.
+                                </li>
+
+
+                            </ul>
+                            <div class="price-value">
+                                <h4>
+                                    ₹500
+                                </h4>
+
+                            </div>
+                            <a class="themeht-btn primary-btn" href="#">
+                                <span>Choose Plan</span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+                <div class="pricing-box">
+
+                    <div class="price-table">
+                        <h4 class="price-title">Social Media Poster</h4>
+
+                        <div class="price-list">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <i class="flaticon flaticon-check"></i> Vibrant, creative designs that drive
+                                    engagement.
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Customized for specific campaigns and brand
+                                    messaging.
+                                </li>
+
+
+                            </ul>
+                            <div class="price-value">
+                                <h4>
+                                    ₹1000
+                                </h4>
+
+                            </div>
+                            <a class="themeht-btn primary-btn" href="#">
+                                <span>Choose Plan</span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+                <div class="pricing-box">
+
+                    <div class="price-table">
+                        <h4 class="price-title">Video Editing</h4>
+
+                        <div class="price-list">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <i class="flaticon flaticon-check"></i> Seamless editing with professional
+                                    transitions and
+                                    effects
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>High-quality output compatible with multiple
+                                    platforms
+                                </li>
+
+
+                            </ul>
+                            <div class="price-value">
+                                <h4>
+                                    ₹2000 per minute
+                                </h4>
+
+                            </div>
+                            <a class="themeht-btn primary-btn" href="#">
+                                <span>Choose Plan</span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+                <div class="pricing-box">
+
+                    <div class="price-table">
+                        <h4 class="price-title">YouTube Thumbnail</h4>
+
+                        <div class="price-list">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <i class="flaticon flaticon-check"></i> Attractive and clickable designs that boost
+                                    video
+                                    views.
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Tailored layouts highlighting content’s
+                                    unique selling points.
+
+                                </li>
+
+
+                            </ul>
+                            <div class="price-value">
+                                <h4>
+                                    ₹1000
+                                </h4>
+
+                            </div>
+                            <a class="themeht-btn primary-btn" href="#">
+                                <span>Choose Plan</span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+                <div class="pricing-box">
+
+                    <div class="price-table">
+                        <h4 class="price-title">Invitation Card
+                        </h4>
+
+                        <div class="price-list">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <i class="flaticon flaticon-check"></i> Elegant designs customizable for various
+                                    occasions.
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Available in print and digital formats for
+                                    easy distribution.
+
+                                </li>
+
+
+                            </ul>
+                            <div class="price-value">
+                                <h4>
+                                    ₹1000
+                                </h4>
+
+                            </div>
+                            <a class="themeht-btn primary-btn" href="#">
+                                <span>Choose Plan</span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+                <div class="pricing-box">
+
+                    <div class="price-table">
+                        <h4 class="price-title">Invitation Video
+                        </h4>
+
+                        <div class="price-list">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <i class="flaticon flaticon-check"></i> Personalized animated or cinematic video
+                                    invitations.
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>High-quality visuals with music and
+                                    voiceovers
+                                </li>
+
+
+                            </ul>
+                            <div class="price-value">
+                                <h4>
+                                    ₹2000
+                                </h4>
+
+                            </div>
+                            <a class="themeht-btn primary-btn" href="#">
+                                <span>Choose Plan</span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+                <div class="pricing-box">
+
+                    <div class="price-table">
+                        <h4 class="price-title">Menu Design
+                        </h4>
+
+                        <div class="price-list">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <i class="flaticon flaticon-check"></i> Visually organized layouts to showcase
+                                    dishes and
+                                    pricing clearly
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Custom designs that reflect the restaurant’s
+                                    theme
+                                    and style.
+                                </li>
+
+
+                            </ul>
+                            <div class="price-value">
+                                <h4>
+                                    ₹1000
+                                </h4>
+
+                            </div>
+                            <a class="themeht-btn primary-btn" href="#">
+                                <span>Choose Plan</span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+                <div class="pricing-box">
+
+                    <div class="price-table">
+                        <h4 class="price-title">Presentation
+
+                        </h4>
+
+                        <div class="price-list">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Engaging slide designs with interactive
+                                    elements.
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Professional templates that align with
+                                    branding and
+                                    messaging
+                                </li>
+
+
+                            </ul>
+                            <div class="price-value">
+                                <h4>
+                                    500 per slide.
+                                </h4>
+
+                            </div>
+                            <a class="themeht-btn primary-btn" href="#">
+                                <span>Choose Plan</span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+                <div class="pricing-box">
+                    <div class="price-table ">
+
+                        <h4 class="price-title">SEO & Digital Marketing</h4>
+                        <div class="price-list">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Keyword Research & Optimization
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Local Backlink Building
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Blog Posts Optimized for Local SEO
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Full Website SEO Audit & Optimization.
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>On-Page SEO Enhancements (Meta, Alt Tags,
+                                    H1/H2, etc.)
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>5 Keyword-Targeted Blog Posts
+
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Monthly Backlink Strategy
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Google Analytics & Search Console Setup
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Content Strategy Development & Optimization
+
+                                </li>
+
+
+                            </ul>
+                            <div class="price-value">
+                                <h4>
+                                    ₹20000
+
+                                </h4>
+                                <span>Per Month</span>
+                            </div>
+                            <div class="price-value">
+                                <h4>
+                                    ₹75000
+
+                                </h4>
+                                <span>Per 6 Month</span>
+                            </div>
+                            <div class="price-value">
+                                <h4>
+                                    ₹100000
+
+                                </h4>
+                                <span>Per Annum</span>
+                            </div>
+                            <a class="themeht-btn primary-btn" href="#">
+                                <span>Choose Plan</span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+                        </div>
+
+
+                    </div>
+                </div>
+                <div class="pricing-box">
+
+                    <div class="price-table">
+                        <h4 class="price-title">Web Development ( CODING WEBSITE )
+                            Business Growth Website
+
+                        </h4>
+
+                        <div class="price-list">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <i class="flaticon flaticon-check"></i> 5-Page Website (Home, Services, About Us,
+                                    Contact, Blog)
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Custom Logo Design
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Professional Content Writing
+
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Domain Registration
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Hosting Services
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Dynamic Pages
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>2 Blogs per Month
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Mobile Optimization & Fast Loading Speed.
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Custom Design & Branding Integration.
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Comprehensive SEO Optimization Keyword
+                                    Research & Analysis.
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Contact Form & Call-to-Action Integration 3
+                                    Months of Maintenance & Support
+                                </li>
+
+
+
+                            </ul>
+                            <div class="price-value">
+                                <h4>
+                                    ₹50000
+                                </h4>
+
+                            </div>
+                            <a class="themeht-btn primary-btn" href="#">
+                                <span>Choose Plan</span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+                <div class="pricing-box">
+
+                    <div class="price-table">
+                        <h4 class="price-title">Web Development
+                            E-commerce Excellence
+
+                        </h4>
+
+                        <div class="price-list">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Full E-commerce Store Setup
+
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>10+ Pages (up to 40 products).
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Custom Logo Design.
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Professional Content Writing
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Keyword Research & Analysis
+
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Domain Registration
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>4 Blogs per Month.
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Mobile Optimization & Fast Loading Speed.
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Google My Business Setup
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Influencer Marketing Strategy
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Lead Generation Initiatives.
+
+                                </li>
+
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Product Pages & Shopping Cart Integration
+                                </li>
+
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Payment Gateway Setup
+                                </li>
+
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Basic SEO & Marketing Integration
+                                </li>
+
+
+
+                            </ul>
+                            <div class="price-value">
+                                <h4>
+                                    ₹100000
+                                </h4>
+
+                            </div>
+                            <a class="themeht-btn primary-btn" href="#">
+                                <span>Choose Plan</span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+                <div class="pricing-box">
+
+                    <div class="price-table">
+                        <h4 class="price-title">Wordpress Website
+                        </h4>
+
+                        <div class="price-list">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <i class="flaticon flaticon-check"></i> Customizable Design: Offers a vast library
+                                    of themes
+                                    and plugins, allowing for highly tailored designs and
+                                    functionalities to suit any business needs.
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>SEO-Friendly Structure: Built-in features and
+                                    plugins
+                                    help optimize the website for search engines,
+                                    improving visibility and traffic
+                                </li>
+
+
+                            </ul>
+                            <div class="price-value">
+                                <h4>
+                                    ₹15000
+                                </h4>
+
+                            </div>
+                            <a class="themeht-btn primary-btn" href="#">
+                                <span>Choose Plan</span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+
+                <div class="pricing-box">
+
+                    <div class="price-table">
+                        <h4 class="price-title">Web Development ( CODING WEBSITE )
+
+                        </h4>
+
+                        <div class="price-list">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <i class="flaticon flaticon-check"></i> 1-Page Website (Landing Page)
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Custom Logo Design.
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Professional Content Writing
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Domain Registration
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Hosting Services
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Static Pages
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Mobile Responsive Design
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Basic SEO Optimization
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Google Analytics Setup
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Mobile Responsive Design.
+                                </li>
+
+
+                            </ul>
+                            <div class="price-value">
+                                <h4>
+                                    ₹25000
+                                </h4>
+
+                            </div>
+                            <a class="themeht-btn primary-btn" href="#">
+                                <span>Choose Plan</span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+                <div class="pricing-box">
+                    <div class="price-table ">
+
+                        <h4 class="price-title">Social Media Growth Stratergy</h4>
+                        <div class="price-list">
+                            <ul class="list-unstyled">
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Profile Optimization
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Bio Writing
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Link Management
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Highlights Design
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>2 videos per month
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Additional Advertisement Campaigns.
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Script Writing
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Voiceover
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>Animation
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>12-20 Post per month
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>5 stories per week
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i>2 reels per week
+
+                                </li>
+                                <li>
+                                    <i class="flaticon flaticon-check"></i># Research
+
+                                </li>
+                            </ul>
+                            <div class="price-value">
+                                <h4>
+                                    ₹50000
+
+                                </h4>
+                                <span>Per Month</span>
+                            </div>
+                            <a class="themeht-btn primary-btn" href="#">
+                                <span>Choose Plan</span>
+                                <i class="bi bi-arrow-right"></i>
+                            </a>
+                        </div>
+
+
+                    </div>
+                </div>
+                <div>
+                    <div class="pricing-box">
+
+                        <div class="price-table">
+                            <h4 class="price-title">App development
+
+                            </h4>
+
+                            <div class="price-list">
+                                <ul class="list-unstyled">
+                                    <li>
+                                        <i class="flaticon flaticon-check"></i> Custom Functionality: Tailored app
+                                        solutions to meet
+                                        specific business requirements
+
+                                    </li>
+                                    <li>
+                                        <i class="flaticon flaticon-check"></i>Cross-Platform Compatibility: Seamless
+                                        performance
+                                        across iOS and Android devices.
+                                    </li>
+                                    <li>
+                                        <i class="flaticon flaticon-check"></i>User-Friendly Interface: Intuitive
+                                        designs for an enhanced user experience.
+
+                                    </li>
+                                    <li>
+                                        <i class="flaticon flaticon-check"></i>High Performance: Fast and responsive
+                                        apps
+                                        optimized for smooth functionality.
+                                    </li>
+                                    <li>
+                                        <i class="flaticon flaticon-check"></i>Push Notifications: Effective
+                                        communication with
+                                        users through real-time updates.
+                                    </li>
+                                    <li>
+                                        <i class="flaticon flaticon-check"></i>Designed to handle increased users and
+                                        features as your business grows
+                                    </li>
+                                    <li>
+                                        <i class="flaticon flaticon-check"></i>Integration Capabilities: Seamless
+                                        integration with
+                                        third-party tools and APIs.
+                                    </li>
+                                    <li>
+                                        <i class="flaticon flaticon-check"></i>Offline Access: Allows users to access
+                                        essential
+                                        features without an internet connection.
+                                    </li>
+                                    <li>
+                                        <i class="flaticon flaticon-check"></i>Enhanced Security: Robust data protection
+                                        with
+                                        encryption and secure protocols.
+
+                                    </li>
+                                    <li>
+                                        <i class="flaticon flaticon-check"></i>Custom Analytics: Built-in tools to track
+                                        user
+                                        behavior and app performance.
+                                    </li>
+                                    <li>
+                                        <i class="flaticon flaticon-check"></i>Regular Updates: Ongoing support and
+                                        updates for
+                                        continuous improvement.
+                                    </li>
+                                    <li>
+                                        <i class="flaticon flaticon-check"></i>Cross-Platform Development: Unified
+                                        codebase for
+                                        consistent experience on multiple platforms.
+                                    </li>
+
+
+                                </ul>
+                                <div class="price-value">
+                                    <h4>
+                                        ₹120000
+                                    </h4>
+
+                                </div>
+                                <a class="themeht-btn primary-btn" href="#">
+                                    <span>Choose Plan</span>
+                                    <i class="bi bi-arrow-right"></i>
+                                </a>
+
+
+                            </div>
+
+
+
+                        </div>
+                        
+                    </div>
+                    
+                    
+
+
+                </div>
+
+
+
+
+
+
+            </div>
+
+        </body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </section>
+
+    <!--pricing end-->
 
 
 
 </div>
 
-<!--body content end--> 
+<!--body content end-->
 
 <?php ;
- 
- include('includes/footer.php')
- 
-     ?>
- 
- </html>
- 
+
+include('includes/footer.php')
+
+    ?>
+
+</html>

@@ -22,7 +22,7 @@ include('../includes/header.php')
                         <nav aria-label="breadcrumb" class="page-breadcrumb">
                             <ul class="">
                                 <li class="">
-                                    <a href="../index.html">
+                                    <a href="../index.php">
                                         <i class="bi bi-house-door me-1"></i>Home</a>
                                 </li>
                                 <li class="breadcrumb-item active" aria-current="page"> Disclaimer </li>
@@ -65,9 +65,9 @@ include('../includes/header.php')
                             <p class="mb-3">In no event shall ASW Digital Marketing, its directors, employees, or agents be liable for any indirect, incidental, consequential, or punitive damages arising out of or related to your use of our website or services. Our total liability to you for any claims arising out of or related to our services shall be limited to the amount paid for those services.</p>
                             <h4 class="text-theme mt-5"> 6. Changes to Disclaimer </h4>
                             <p class="mb-3">We reserve the right to update or modify this disclaimer at any time without prior notice. It is your responsibility to review this disclaimer periodically for any changes. Continued use of our website and services following the posting of any changes constitutes acceptance of those changes.</p>
-                            <a class="themeht-btn primary-btn" href="../contact.html"><span>Accept</span><i
+                            <a class="themeht-btn primary-btn" href="../contact.php"><span>Accept</span><i
                                     class="bi bi-arrow-right"></i></a>
-                            <a class="themeht-btn dark-btn ms-2" href="../index.html"><span>Close</span><i
+                            <a class="themeht-btn dark-btn ms-2" href="../index.php"><span>Close</span><i
                                     class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>

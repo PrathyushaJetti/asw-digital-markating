@@ -75,7 +75,7 @@ include('includes/header.php')
           </div>
         </div>
         <div class="col-lg-4 col-md-6 mt-6 mt-md-0">
-          <div class="service-item style-1 service-active">
+          <div class="service-item  style-1 service-active">
             <div class="service-icon">
                     <i class="flaticon flaticon-content-marketing"></i>
                   </div>
@@ -91,7 +91,7 @@ include('includes/header.php')
           </div>
         </div>
         <div class="col-lg-4 col-md-6 mt-6 mt-lg-0">
-          <div class="service-item style-1">
+          <div class="service-item  style-1">
             <div class="service-icon">
                     <i class="flaticon flaticon-digital-marketing"></i>
                   </div>
@@ -107,7 +107,7 @@ include('includes/header.php')
           </div>
         </div>
         <div class="col-lg-4 col-md-6 mt-6">
-          <div class="service-item style-1">
+          <div class="service-item  style-1">
             <div class="service-icon">
                     <i class="flaticon flaticon-email-2"></i>
                   </div>
@@ -123,7 +123,7 @@ include('includes/header.php')
           </div>
         </div>
         <div class="col-lg-4 col-md-6 mt-6">
-          <div class="service-item style-1">
+          <div class="service-item  style-1">
             <div class="service-icon">
                     <i class="flaticon flaticon-email-2"></i>
                   </div>
@@ -140,7 +140,7 @@ include('includes/header.php')
           </div>
         </div>
         <div class="col-lg-4 col-md-6 mt-6">
-          <div class="service-item style-1">
+          <div class="service-item  style-1">
             <div class="service-icon">
                     <i class="flaticon flaticon-email-2"></i>
                   </div>
@@ -156,7 +156,7 @@ include('includes/header.php')
           </div>
         </div>
         <div class="col-lg-4 col-md-6 mt-6 mt-lg-0">
-          <div class="service-item style-1">
+          <div class="service-item  style-1">
             <div class="service-icon">
                     <i class="flaticon flaticon-digital-marketing"></i>
                   </div>
@@ -173,7 +173,7 @@ include('includes/header.php')
           </div>
         </div>
         <div class="col-lg-4 col-md-6 mt-6 mt-lg-0">
-          <div class="service-item style-1">
+          <div class="service-item  style-1">
             <div class="service-icon">
                     <i class="flaticon flaticon-digital-marketing"></i>
                   </div>
@@ -189,7 +189,7 @@ include('includes/header.php')
           </div>
         </div>
         <div class="col-lg-4 col-md-6 mt-6 mt-lg-0">
-          <div class="service-item style-1">
+          <div class="service-item  style-1">
             <div class="service-icon">
                     <i class="flaticon flaticon-digital-marketing"></i>
                   </div>
