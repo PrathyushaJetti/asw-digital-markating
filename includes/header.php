@@ -6,14 +6,14 @@ define('ROOT_PATH', 'http://localhost/asw-digital/');
 <html lang="en">
 
 <head>
-    <title><?php $title = isset($meta['title']) ? $meta['title'] : 'ASW Digital Marketing';
-    echo $title; ?></title>
-    <meta name="description" content="<?php
-    $title = isset($meta['description']) ? $meta['description'] : 'ASW Digital Marketing';
-    echo $meta['description']; ?>">
-    <meta name="keywords" content="<?php
-    $title = isset($meta['keywords']) ? $meta['keywords'] : 'ASW Digital Marketing';
-    echo $meta['keywords']; ?>">
+  <title><?php $title = isset($meta['title']) ? $meta['title'] : 'ASW Digital Marketing';
+  echo $title; ?></title>
+  <meta name="description" content="<?php
+  $title = isset($meta['description']) ? $meta['description'] : 'ASW Digital Marketing';
+  echo $meta['description']; ?>">
+  <meta name="keywords" content="<?php
+  $title = isset($meta['keywords']) ? $meta['keywords'] : 'ASW Digital Marketing';
+  echo $meta['keywords']; ?>">
 
   <!-- favicon icon -->
   <link rel="shortcut icon" href="<?= ROOT_PATH ?>image/aswdm-circle-logo.png" />
@@ -59,18 +59,18 @@ define('ROOT_PATH', 'http://localhost/asw-digital/');
   <!--== color-customizer -->
   <link href="#" data-style="styles" rel="stylesheet">
   <link href="<?= ROOT_PATH ?>css/color-customize/color-customizer.css" rel="stylesheet" type="text/css" />
-  
+
 
   <!-- inject css end -->
-   <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9G1LSD9FJQ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-9G1LSD9FJQ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-  gtag('config', 'G-9G1LSD9FJQ');
-</script>
+    gtag('config', 'G-9G1LSD9FJQ');
+  </script>
 
 </head>
 
@@ -196,29 +196,29 @@ define('ROOT_PATH', 'http://localhost/asw-digital/');
       </div>
       <div class="social-icons mt-5">
         <ul class="list-inline">
-        <li class="list-inline-item">
-                <a href="https://wa.me/+919390229056" target="_blank" >
-                  <i class="bi-whatsapp"></i>
-                </a>
+          <li>
+            <a href="https://wa.me/+919390229056" target="_blank">
+              <i class="bi-whatsapp"></i>
+            </a>
 
-              </li>
+          </li>
           <li>
             <a href="#">
               <i class="flaticon-facebook-app-symbol"></i>
             </a>
           </li>
-          
+
           <li>
             <a href="https://www.instagram.com/p/DDZi5GszK7l/?igsh=MTY0dnJ2bWdqeXNrdg==">
               <i class="flaticon-instagram" target="_blank"></i>
             </a>
           </li>
           <li class="list-inline-item">
-                <a href="https://www.youtube.com/@ASWDIGITALMARKETINGSERVICES" target="_blank">
-                  <i class="bi-youtube"></i>
-                </a>
+            <a href="https://www.youtube.com/@ASWDIGITALMARKETINGSERVICES" target="_blank">
+              <i class="bi-youtube"></i>
+            </a>
 
-              </li>
+          </li>
         </ul>
       </div>
     </nav>
